@@ -17,3 +17,6 @@
 
 ## Date/Datetime Pickers
 * [`Flatpickr`](https://flatpickr.js.org/) - A lightweight and powerful datetime picker that allows you to create UI for selecting date, time, datetime and even date ranges.
+
+## Tables
+* [`DataTables`](https://datatables.net/) - A jQuery plugin that enhances the UI and functionality of HTML5 tables.
