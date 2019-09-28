@@ -10,4 +10,7 @@
 * [`Cropper`](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 
 ## Input Validation
-* [`jQuery Validation`](https://github.com/jquery-validation/jquery-validation) - This jQuery plugin makes simple clientside form validation easy, whilst still offering plenty of customization options. 
+* [`jQuery Validation`](https://github.com/jquery-validation/jquery-validation) - This jQuery plugin makes simple clientside form validation easy, whilst still offering plenty of customization options.
+
+## File Uploaders
+* [`Krajee File Input`](https://plugins.krajee.com/file-input) - The plugin allows you to setup an advanced file picker/upload control built for Bootstrap 4.x or Bootstrap 3.x.
