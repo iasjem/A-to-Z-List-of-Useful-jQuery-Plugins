@@ -14,3 +14,6 @@
 
 ## File Uploaders
 * [`Krajee File Input`](https://plugins.krajee.com/file-input) - The plugin allows you to setup an advanced file picker/upload control built for Bootstrap 4.x or Bootstrap 3.x.
+
+## Date/Datetime Pickers
+* [`Flatpickr`](https://flatpickr.js.org/) - A lightweight and powerful datetime picker that allows you to create UI for selecting date, time, datetime and even date ranges.
